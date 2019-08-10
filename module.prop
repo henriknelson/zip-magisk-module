@@ -1,0 +1,6 @@
+id=zip-ndk
+name=zip for Android
+version=v3.0
+versionCode=1
+author=nelshh
+description=A statically built version of the zip tools for android (aarch64)
