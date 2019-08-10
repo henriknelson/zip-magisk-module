@@ -1,8 +1,8 @@
-# zip for Android (aarch64)
+# Info-ZIP for Android (aarch64)
 
 ## by nelshh @ xda-developers
 
-This Magisk module installs the latest stable version of the zip tools to the target system
+This Magisk module installs the latest stable version of the Info-ZIP zip tools to the target system
 
 ## Change Log
 
@@ -10,7 +10,7 @@ This Magisk module installs the latest stable version of the zip tools to the ta
 * Initial release
 
 ## Source Code
-* Source [GitHub](http://infozip.sourceforge.net/Zip.html)
+* Source [sourceforge.net](http://infozip.sourceforge.net/Zip.html)
 
 ## Module Source Code
 * Module [GitHub](https://github.com/henriknelson/zip-magisk-module)
