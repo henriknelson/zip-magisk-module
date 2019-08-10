@@ -123,8 +123,8 @@ REPLACE="
 
 print_modname() {
   ui_print "*********************************************"
-  ui_print "     zip for Android       	    	       "
-  ui_print "         - v3.0                              "
+  ui_print "     Info-ZIP for Android       	        "
+  ui_print "         - v3.0                             "
   ui_print "         - built by nelshh @ xda-developers  "
   ui_print "*********************************************"
 }
